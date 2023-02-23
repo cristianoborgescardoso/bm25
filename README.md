@@ -4,3 +4,4 @@ O BM25 é tido com uma evolução do tf-idf, sendo resultado de uma série de ex
 
 Dada uma consulta (q), contendo os termos _t 1 , t 2 , . . . , t n_ , a função de pontuação
 para um documento d é dada por:
+![alt text](https://github.com/cristianoborgescardoso/bm25/raw/main/bm25.png)
